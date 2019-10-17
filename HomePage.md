@@ -1,11 +1,3 @@
-点击订阅[Java面试进阶指南](https://xiaozhuanlan.com/javainterview?rel=javaguide)(专为Java面试方向准备)。[为什么要弄这个专栏?](https://shimo.im/./9BJjNsNg7S4dCnz3/)
-
-<h1 align="center">Java 学习/面试指南</h1>
-<p align="center">
-<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
-	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
-</a>
-
 ## 目录
 
 - [Java](#java)
@@ -224,13 +216,3 @@
 - [x] [BIO,NIO,AIO 总结 ](./java/BIO-NIO-AIO.md)
 - [ ] Netty 总结(---正在进行中---)
 - [ ] 数据结构总结重构(---正在进行中---)
-
-## 公众号
-
-- 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
-- 由本文档衍生的专为面试而生的《Java面试突击》V2.0 PDF 版本公众号后台回复 **"Java面试突击"** 即可免费领取！
-- 一些Java工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。 
-
-<p align="center">
-<img src="https://user-gold-cdn.xitu.io/2018/11/28/167598cd2e17b8ec?w=258&h=258&f=jpeg&s=27334" width=""/>
-</p>
